@@ -1,0 +1,8 @@
+C:\Users\Zeyad\Documents\Visual Studio 2015\Projects\WindowsApps\ColorChanger\ColorChanger\bin\Debug\ColorChanger.exe.config
+C:\Users\Zeyad\Documents\Visual Studio 2015\Projects\WindowsApps\ColorChanger\ColorChanger\bin\Debug\ColorChanger.exe
+C:\Users\Zeyad\Documents\Visual Studio 2015\Projects\WindowsApps\ColorChanger\ColorChanger\bin\Debug\ColorChanger.pdb
+C:\Users\Zeyad\Documents\Visual Studio 2015\Projects\WindowsApps\ColorChanger\ColorChanger\obj\Debug\ColorChanger.Form1.resources
+C:\Users\Zeyad\Documents\Visual Studio 2015\Projects\WindowsApps\ColorChanger\ColorChanger\obj\Debug\ColorChanger.Properties.Resources.resources
+C:\Users\Zeyad\Documents\Visual Studio 2015\Projects\WindowsApps\ColorChanger\ColorChanger\obj\Debug\ColorChanger.csproj.GenerateResource.Cache
+C:\Users\Zeyad\Documents\Visual Studio 2015\Projects\WindowsApps\ColorChanger\ColorChanger\obj\Debug\ColorChanger.exe
+C:\Users\Zeyad\Documents\Visual Studio 2015\Projects\WindowsApps\ColorChanger\ColorChanger\obj\Debug\ColorChanger.pdb
